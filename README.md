@@ -1,37 +1,37 @@
 # Data Science Portfolio - Sara Boyle
 This portfolio summarizes my data science and analysis projects. It contains my achievements, skills, and published work.
 
-- **Email**: [saraelizaboyle@gmail.com](saraelizaboyle@gmail.com)
+- **Email**: saraelizaboyle at gmail.com
 - **LinkedIn**: [linkedin.com/saraboyle](https://www.linkedin.com/in/saraboyle/)
 
 ## Achievements
+- PhD in neuroscience, with a focus on developing software to analyze scientific data
 - Chosen speaker for the 2023 Neurometabolism in Health and Disease conference (Cell Symposium, Singapore).
-- [Publication](https://www.nature.com/articles/s41593-022-01178-3): Neurotensin neurons in the extended amygdala control dietary choice and energy homeostasis, Nature Neuroscience, 2022.
-- Defended a PhD in neuroscience in 2023.
+- Published software for data analysis in [Nature Neuroscience, 2022.](https://www.nature.com/articles/s41593-022-01178-3)
 
-## Projects
+## Scientific Software Projects
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+<img align="left" width="250" height="150" src="https://www.colinst.com/images/products/35/briefCLAMS-HC.jpg"> **[Metabolic Cage Analysis](https://github.com/SaraEBoyle/MetabolicCageAnalysis)**
 
-In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
-
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+In this project, I created an analysis package to clean, visualize, and analyze data from Columbus Instruments' Comprehensive Animal Monitoring System (CLAMS). This system monitors metabolic parameters, like changes in oxygen and carbon dioxide, movement, and food/water intake. I created a simple user interface to remove electrical artifacts from the data, visualize any difference between groups, and run statistical tests for significant metabolic changes.
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/1_cEaeMuTvINqIgyYQMSJWUA.jpeg"> **[Hybrid-filtering News Articles Recommendation Engine](https://github.com/archd3sai/News-Articles-Recommendation)**
+<img align="left" width="250" height="150" src="https://github.com/SaraEBoyle/Conflict-Task-Analysis-Package/assets/83416542/7bd1aa71-575d-4b5c-87bd-b38bcd418b22"> **[Conflict Task Analysis](https://github.com/SaraEBoyle/Conflict-Task-Analysis-Package)**
+
+The objective of this project was to study how mice balance desire for a reward with the potential for risk. I built a system to track the location of mice throughout this task, correlating risk-seeking behavior with their brain activity, ultimately discovering a brain area that's active in risk-averse mice but not risk-prone mice.
+
+#
+
+<img align="left" width="250" height="150" src="https://user-images.githubusercontent.com/83416542/249879429-94f80e82-b3a5-41b2-8c4f-a6aceae3d11f.jpg"> **[Analyzing Brain Responses to Sugar](https://github.com/SaraEBoyle/IPACProject)**
  
-A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
+In this project, I recorded brain responses while giving mice sugar water or plain water. I built the water delivery system and system for syncing brain recordings using a combination of Bpod and Arduino tools, as well as an electrical circuit for precisely measuring when the mice drink. 
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/airplane.jpeg"> **[Predictive Maintenance of Aircraft Engine](https://github.com/archd3sai/Predictive-Maintenance-of-Aircraft-Engine)**
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/airplane.jpeg"> **[Predicting Food Consumed from Brain Activity](https://github.com/archd3sai/Predictive-Maintenance-of-Aircraft-Engine)**
 
-In this project I have used models such as RNN, LSTM, 1D-CNN to predict the engine failure 50 cycles ahead of its time, and calculated feature importance from them using sensitivity analysis and shap values. Exponential degradation and similarity-based models are also used to calculate its remaining life.
+In this project, I recorded brain activity from mice while they ate different types of food pellets. I extracted single neuron information, utilized PCA for dimension reduction of the brain imaging data, then built an SVM model to predict the type of pellet being consumed, based on the brain data, achieving 90-95% accuracy across individual mice. I also built the food delivery system and used an open source image processing tool (DeepLabCut) to extract food timing.
 
 #
 
