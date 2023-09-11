@@ -9,6 +9,26 @@ This portfolio summarizes my data science and analysis projects. It contains my 
 - Chosen speaker for the 2023 Neurometabolism in Health and Disease conference (Cell Symposium, Singapore).
 - Published software for data analysis in [Nature Neuroscience, 2022.](https://www.nature.com/articles/s41593-022-01178-3)
 
+## Data Science Projects
+
+<img align="left" width="250" height="150" src="https://www.colinst.com/images/products/35/briefCLAMS-HC.jpg"> **[Metabolic Cage Analysis](https://github.com/SaraEBoyle/MetabolicCageAnalysis)**
+
+In this project, I created an analysis package to clean, visualize, and analyze data from Columbus Instruments' Comprehensive Animal Monitoring System (CLAMS). This system monitors metabolic parameters, like changes in oxygen and carbon dioxide, movement, and food/water intake. I created a simple user interface to remove electrical artifacts from the data, visualize any difference between groups, and run statistical tests for significant metabolic changes.
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/SaraEBoyle/Conflict-Task-Analysis-Package/assets/83416542/7bd1aa71-575d-4b5c-87bd-b38bcd418b22"> **[Conflict Task Analysis](https://github.com/SaraEBoyle/Conflict-Task-Analysis-Package)**
+
+The objective of this project was to study how mice balance desire for a reward with the potential for risk. I built a system to track the location of mice throughout this task, correlating risk-seeking behavior with their brain activity, ultimately discovering a brain area that's active in risk-averse mice but not risk-prone mice.
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/SaraEBoyle/Portfolio/blob/main/images/Cupcakes,_chocolate_and_strawberry_flavour.jpg?raw=true"> **[Analyzing Brain Responses to Sugar](https://github.com/SaraEBoyle/IPACProject)**
+ 
+In this project, I recorded brain responses while giving mice sugar water or plain water. I built the water delivery system and system for syncing brain recordings using a combination of Bpod and Arduino tools, as well as an electrical circuit for precisely measuring when the mice drink. This analysis package is published in scientific journal [here.](https://www.nature.com/articles/s41593-022-01178-3)
+
+<br />
+
 ## Scientific Software Projects
 
 <img align="left" width="250" height="150" src="https://www.colinst.com/images/products/35/briefCLAMS-HC.jpg"> **[Metabolic Cage Analysis](https://github.com/SaraEBoyle/MetabolicCageAnalysis)**
@@ -25,37 +45,8 @@ The objective of this project was to study how mice balance desire for a reward 
 
 <img align="left" width="250" height="150" src="https://github.com/SaraEBoyle/Portfolio/blob/main/images/Cupcakes,_chocolate_and_strawberry_flavour.jpg?raw=true"> **[Analyzing Brain Responses to Sugar](https://github.com/SaraEBoyle/IPACProject)**
  
-In this project, I recorded brain responses while giving mice sugar water or plain water. I built the water delivery system and system for syncing brain recordings using a combination of Bpod and Arduino tools, as well as an electrical circuit for precisely measuring when the mice drink. 
+In this project, I recorded brain responses while giving mice sugar water or plain water. I built the water delivery system and system for syncing brain recordings using a combination of Bpod and Arduino tools, as well as an electrical circuit for precisely measuring when the mice drink. This analysis package is published in scientific journal [here.](https://www.nature.com/articles/s41593-022-01178-3)
 
-#
-
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/airplane.jpeg"> **[Predicting Food Consumed from Brain Activity](https://github.com/archd3sai/Predictive-Maintenance-of-Aircraft-Engine)**
-
-In this project, I recorded brain activity from mice while they ate different types of food pellets. I extracted single neuron information, utilized PCA for dimension reduction of the brain imaging data, then built an SVM model to predict the type of pellet being consumed, based on the brain data, achieving 90-95% accuracy across individual mice. I also built the food delivery system and used an open source image processing tool (DeepLabCut) to extract food timing.
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/960x0.jpg"> **[Wind Turbine Power Curve Estimation](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation)**
-
-In this project, I have employed regression techniques to estimate the Power curve of an on-shore Wind turbine. Nonlinear trees based regression methods perform best as true power curve is nonlinear. XGBoost is implemented and optimized using GridSearchCV which yields lowest Test RMSE-6.404.
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/phase1.jpg"> **[Multivariate Phase 1 Analysis](https://github.com/archd3sai/Multivariate-Phase-1-Analysis)** 
-
-Objective of this project is to identify the in-control data points and eliminate out of control data points to set up distribution parameters for manufacturing process monitoring. I utilized PCA for dimension reduction and Hotelling T2 and m-CUSUM control charts to established mean and variance matrices.
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/gdp.jpg"> **[What's the GDP of India?](https://github.com/archd3sai/Predicting-GDP-of-India)**
-
-Objective of this project is to perform predictive assesment on the GDP of India through an inferential analysis of various socio-economic factors. Various models are compared and Stepwise Regression model is implemented which resulted in 5.7% Test MSE.
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/loan.jpg"> **[Loan Default Prediction](https://github.com/archd3sai/Loan-Default-Prediction)** 
-
-In this project I applied various classification models such as Logistic Regression, Random Forest and LightGBM to detect consumers who will default the loan. SMOTE is used to combat class imbalance and LightGBM is implemented that resulted into the highest accuracy 98.89% and 0.99 F1 Score.
 
 <br />
 
