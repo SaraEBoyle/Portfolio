@@ -23,7 +23,7 @@ The objective of this project was to study how mice balance desire for a reward 
 
 #
 
-<img align="left" width="250" height="150" src="https://user-images.githubusercontent.com/83416542/249879429-94f80e82-b3a5-41b2-8c4f-a6aceae3d11f.jpg"> **[Analyzing Brain Responses to Sugar](https://github.com/SaraEBoyle/IPACProject)**
+<img align="left" width="250" height="150" src="https://github.com/SaraEBoyle/Portfolio/blob/main/images/Cupcakes,_chocolate_and_strawberry_flavour.jpg?raw=true"> **[Analyzing Brain Responses to Sugar](https://github.com/SaraEBoyle/IPACProject)**
  
 In this project, I recorded brain responses while giving mice sugar water or plain water. I built the water delivery system and system for syncing brain recordings using a combination of Bpod and Arduino tools, as well as an electrical circuit for precisely measuring when the mice drink. 
 
