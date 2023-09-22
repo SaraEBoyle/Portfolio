@@ -11,9 +11,9 @@ This portfolio summarizes my data science and analysis projects. It contains my 
 
 ## Data Science Projects
 
-<img align="left" width="250" height="150" src="https://github.com/SaraEBoyle/Portfolio/blob/main/images/CTAL.jpeg?raw=true"> **[Predicting CTA 'L' Ridership Recovery](https://github.com/SaraEBoyle/MetabolicCageAnalysis)**
+<img align="left" width="250" height="150" src="https://github.com/SaraEBoyle/Portfolio/blob/main/images/CTAL.jpeg?raw=true"> **[Predicting CTA 'L' Ridership Recovery](https://github.com/SaraEBoyle/PredictingLRidershipRecovery/blob/main/Predicting_Chicago_L_Ridership.ipynb)**
 
-In this project, I used the City of Chicago's API to download ridership data for the L, then cleaned and visualized the data using Python (Pandas, Matplotlib/Seaborn, Plotly). My goal was to assess COVID-19's effect on ridership (it's down by almost 50% compared to pre-pandemic levels), then build a model to predict when ridership may recover.
+In this project, I used the City of Chicago's API to download ridership data for the L, then cleaned and visualized the data using Python (Pandas, Matplotlib/Seaborn, Plotly). My goal was to assess COVID-19's effect on ridership (it's down by almost 50% compared to pre-pandemic levels), then build a model to predict when ridership may recover, using Seasonal and Trend decomposition using Loess (STL) and an ARIMA (AutoRegressive Integrated Moving Average) model.
 
 #
 
