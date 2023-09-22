@@ -43,7 +43,7 @@ In this project, I recorded brain responses while giving mice sugar water or pla
 ## Core Competencies
 
 - **Methodologies**: Machine Learning, Time Series Analysis, Statistics, A/B Testing and Experimentation Design, Data Analytics
-- **Languages**: Experienced in: Python (Pandas, Numpy, Scikit-Learn, Scipy, Matplotlib), MATLAB, SQL, with some exposure to C++
+- **Languages**: Experienced in: Python (Pandas, Numpy, Scikit-Learn, Scipy, Matplotlib), MATLAB, SQL, with some exposure to C++, Arduino, and Google Apps Script Automation
 - **Tools**: MySQL, Spotfire, Plotly/Dash, Git, MS Excel
 
 ## Certificates
