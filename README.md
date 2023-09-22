@@ -46,7 +46,23 @@ In this project, I recorded brain responses while giving mice sugar water or pla
 - **Languages**: Experienced in: Python (Pandas, Numpy, Scikit-Learn, Scipy, Matplotlib), MATLAB, SQL, with some exposure to C++, Arduino, and Google Apps Script Automation
 - **Tools**: MySQL, Spotfire, Plotly/Dash, Git, MS Excel
 
-## Certificates
+## Certificates and Awards
 
 - IBM Data Science Professional Certificate
+- Business of Science Certificate
+- Cell Symposium Selected Speaker
+- Silver Rank Award, International Genetically Engineered Machines Competition (iGEM)
+- President’s Volunteer Service Award
+
+## Publications
+**Neurotensin neurons in the extended amygdala control dietary choice and energy homeostasis 2022**
+
+Furlan, A., Corona, A. and Boyle, S. et al. Neurotensin neurons in the extended amygdala control dietary choice
+and energy homeostasis. Nat Neurosci (2022). https://doi.org/10.1038/s41593-022-01178-3
+
+
+**Central amygdala neurons encode nutritional properties and control weight gain 2023**
+
+Boyle, S. et al. In preparation.
+
 
