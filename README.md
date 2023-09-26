@@ -22,7 +22,7 @@ In this project, I used the City of Chicago's API to download ridership data for
 
 ## Scientific Software Projects
 
-<img align="left" width="250" height="150" src="https://www.colinst.com/images/products/35/briefCLAMS-HC.jpg"> **[Metabolic Cage Analysis](https://github.com/SaraEBoyle/MetabolicCageAnalysis)**
+<img align="left" width="250" height="150" src="https://github.com/SaraEBoyle/Portfolio/blob/main/images/CLAMS_cage.jpg?raw=true"> **[Metabolic Cage Analysis](https://github.com/SaraEBoyle/MetabolicCageAnalysis)**
 
 In this project, I created an analysis package to clean, visualize, and analyze data from Columbus Instruments' Comprehensive Animal Monitoring System (CLAMS). This system monitors metabolic parameters, like changes in oxygen and carbon dioxide, movement, and food/water intake. I created a simple user interface to remove electrical artifacts from the data, visualize any difference between groups, and run statistical tests for significant metabolic changes.
 
