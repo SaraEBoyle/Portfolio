@@ -30,7 +30,7 @@ In this project, I created an analysis package to clean, visualize, and analyze 
 
 <img align="left" width="270" height="150" style="width: 250px; margin-right: 20px;" src="https://github.com/SaraEBoyle/Conflict-Task-Analysis-Package/assets/83416542/7bd1aa71-575d-4b5c-87bd-b38bcd418b22.gif"> **[Conflict Task Analysis](https://github.com/SaraEBoyle/Conflict-Task-Analysis-Package)**
 
-The objective of this project was to study how mice balance desire for a reward with the potential for risk. I built a system to track the location of mice throughout this task, correlating risk-seeking behavior with their brain activity, ultimately discovering a brain area that's active in risk-averse mice but not risk-prone mice.
+The objective of this project was to study how mice balance desire for a reward with the potential for risk. I built a system to track the location of mice throughout this task, correlating risk-seeking behavior with their brain activity.
 
 #
 
